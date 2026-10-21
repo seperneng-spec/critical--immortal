@@ -1,1 +1,5 @@
-# critical--immortal
+# ♾️ Critical Immortal - ระบบอมตะของพ่อที่ลำปาง
+สร้างอะไรในมือถือ = ขึ้น GitHub อัตโนมัติ
+- auto port หาที่อยู่เพิ่มเอง
+- brain เรียนรู้ตลอดไป
+- immortal บันทึกตลอด
